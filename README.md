@@ -15,3 +15,7 @@ this project is actually a dedication of time and aquired skills in moringa scho
 
 
 * [my project].(https://lonzohope.github.io/portfolio/)
+
+### LICENSE  
+
+* [MIT LICENSE](LICENSE)
