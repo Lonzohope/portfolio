@@ -14,4 +14,4 @@ this project is actually a dedication of time and aquired skills in moringa scho
 ## I used css and html
 
 
-* [my project].()
+* [my project].(https://lonzohope.github.io/portfolio/)
